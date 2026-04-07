@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Boost your property&#39;s market value with Israel&#39;s trusted renovation and interior design company. From painting to full renovations, we deliver results that sell. Get your free quote now!
+
+### Services
+https://example.com/services
+Explore our full range of renovation and interior design services — painting, remodeling, and property upgrades built to impress buyers, tenants, and investors alike. Start your project today!
+
+### About
+https://example.com/about
+Meet the professionals behind every stunning transformation. Our renovation and interior design company is built on trust, craftsmanship, and a passion for maximizing every property&#39;s potential.
+
+### Contact
+https://example.com/contact
+Ready to upgrade your home, apartment, or office before selling or renting? Contact our renovation and interior design company today and get a personalized plan tailored just for you.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
